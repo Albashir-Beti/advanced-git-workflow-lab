@@ -20,3 +20,8 @@ A hands-on project for practising Git version control using GitHub and Bitbucket
 - Bitbucket
 - Visual Studio Code
 - PowerShell
+
+## Remote Collaboration Practice
+
+This section was added directly on GitHub to demonstrate
+fetching and pulling changes from a remote repository.
